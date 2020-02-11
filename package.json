@@ -1,0 +1,19 @@
+{
+  "name": "recapcharesponsive",
+  "version": "1.0.0-1",
+  "description": "Recapcha responsiva javascript",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziminny/resize-recapcha.git"
+  },
+  "author": "Vagner Oliveira <ziminny@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ziminny/resize-recapcha/issues"
+  },
+  "homepage": "https://github.com/ziminny/resize-recapcha#readme"
+}
