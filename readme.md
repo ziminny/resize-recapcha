@@ -1,3 +1,3 @@
 ### Recapcha responsiva
 
-![alt text](http://img-readme/cap.png)
+![alt text](/img-readme/cap.png)
