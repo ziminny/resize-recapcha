@@ -1,6 +1,6 @@
 {
   "name": "recapcharesponsive",
-  "version": "1.0.0-1",
+  "version": "1.0.0",
   "description": "Recapcha responsiva javascript",
   "main": "script.js",
   "scripts": {
