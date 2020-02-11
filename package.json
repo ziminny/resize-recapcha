@@ -2,6 +2,13 @@
   "name": "recapcharesponsive",
   "version": "1.0.0",
   "description": "Recapcha responsiva javascript",
+  "keywords": [
+    "recapcha",
+    "responsiva",
+    "responsivo",
+    "resize recapcha",
+    
+  ],
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
